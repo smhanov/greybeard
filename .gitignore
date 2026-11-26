@@ -1,0 +1,15 @@
+# benchmark binaries
+bench/bitsort
+bench/rotate
+bench/layout
+bench/prefix
+bench/bits
+bench/sentinel_O0
+bench/sentinel_O1
+bench/sentinel_O2
+bench/sentinel_O3
+
+# editor / OS noise
+.DS_Store
+*.swp
+bench/sentinel

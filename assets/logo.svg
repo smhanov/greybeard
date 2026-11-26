@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 170" width="660" height="170" role="img" aria-label="Greybeard">
+  <rect width="660" height="170" fill="#0f0f0f"/>
+  <g>
+    <!-- head -->
+    <circle cx="86" cy="66" r="27" fill="#e9e6e0"/>
+    <!-- beard: the point is the whole personality -->
+    <path d="M59 70 L86 142 L113 70 Q86 104 59 70 Z" fill="#b9b4ab"/>
+    <!-- eyes, unimpressed -->
+    <circle cx="76" cy="62" r="2.6" fill="#0f0f0f"/>
+    <circle cx="96" cy="62" r="2.6" fill="#0f0f0f"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="150" y="78" font-size="46" letter-spacing="5" fill="#e9e6e0">GREYBEARD</text>
+    <text x="152" y="106" font-size="14" fill="#8a857d">the right algorithm, the right representation,</text>
+    <text x="152" y="126" font-size="14" fill="#8a857d">and the number to prove it</text>
+  </g>
+</svg>
